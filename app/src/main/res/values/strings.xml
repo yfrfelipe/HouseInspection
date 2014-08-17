@@ -5,4 +5,10 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <!--Activity login-->
+    <string name="username_txt">Usuário</string>
+    <string name="password_txt">Senha</string>
+    <string name="login_btn_txt">Entrar</string>
+    <string name="login_error_msg">Usuário ou senha inválidos, tente novamente!</string>
+
 </resources>
