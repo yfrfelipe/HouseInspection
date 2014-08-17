@@ -6,8 +6,4 @@ import java.io.Serializable;
  * Created by yrineu on 17/08/14.
  */
 public class Inspection implements Serializable{
-
-    Inspection(){
-
-    }
 }
