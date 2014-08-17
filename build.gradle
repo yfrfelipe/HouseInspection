@@ -3,9 +3,16 @@
 buildscript {
     repositories {
         mavenCentral()
+
+        maven {
+            url 'http://ksoap2-android.googlecode.com/svn/m2-repo'
+        }
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.9.+'
+        classpath 'com.android.tools.build:gradle:0.9.+',
+        'com.j256.ormlite:ormlite-android:4.48',
+        'org.slf4j:slf4j-android:1.7.6',
+        'org.projectlombok:lombok:1.14.4'
     }
 }
 
