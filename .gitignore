@@ -2,9 +2,9 @@
 /local.properties
 /.idea/workspace.xml
 .DS_Store
-.idea/modules.xml
-.idea/misc.xml
-.idea/vcs.xml
+~/AndroidStudioProjects/HouseInspection/.idea/modules.xml
+~/AndroidStudioProjects/HouseInspection/.idea/misc.xml
+~/AndroidStudioProjects/HouseInspection/.idea/vcs.xml
 HouseInspection.iml
 app/app.iml
 .idea
