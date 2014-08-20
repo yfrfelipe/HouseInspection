@@ -8,6 +8,6 @@ import java.io.Serializable;
 public class Inspection implements Serializable{
 
     Inspection(){
-
+        super();
     }
 }
